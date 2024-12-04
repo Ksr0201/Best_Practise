@@ -9,3 +9,6 @@ def removeElement(self, nums: List[int], val: int) -> int:
                 count += 1
         print(count)
 
+    # Hello Eceryone and 
+        print("Roshan")
+
