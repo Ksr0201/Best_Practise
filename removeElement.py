@@ -12,3 +12,7 @@ def removeElement(self, nums: List[int], val: int) -> int:
     # Hello Eceryone and 
         print("Suresh")
 
+    # Hello Eceryone andg
+        print("Rakesh","Rohangi")
+
+
