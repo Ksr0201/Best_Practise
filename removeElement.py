@@ -10,5 +10,5 @@ def removeElement(self, nums: List[int], val: int) -> int:
         print(count)
 
     # Hello Eceryone and 
-        print("Roshan")
+        print("Suresh")
 
